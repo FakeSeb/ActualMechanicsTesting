@@ -1,0 +1,42 @@
+Feature List
+
+Time Frame (Who knows. I'll work it out later.)
+
+Nothing to Pre-Alpha – months
+Pre-alpha to Alpha –  months
+Alpha to closed Beta –  months
+Closed Beta to Open Beta –  months
+
+
+
+V 0.1 – Intended – 2 weeks 
+
+Art Level: Placeholder
+Sound Level: n/a
+Mechanic level: Research and development
+
+-Multiple platforms of varying size and shape. 6 types. 1 Center Octagonal platform. Others as necessary.
+
+-Mouse movement affecting the ball and chain
+
+-Ball and chain, attached to character
+
+-3rd person character- x, y and z movement(i.e. Left, right, up, down, and jumping) Completed A&B
+-3rd person camera – Completed A&B
+-Basic lighting
+
+V 0.2 – Intended – 4 weeks, 
+
+-Barrels in basic form
+-Simple break toggle on barrel collision with ball that changes their colour and prevents further interaction
+
+-Gui navigation- Main menu - Options - Exit game
+
+-Testing room with each element so far created arranged in a way that allows quick and efficient testing. Testing.
+
+-More platforms
+
+V 0.3 – Intended – 6 weeks
+
+
+-Break threshold on Barrels
